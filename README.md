@@ -1,0 +1,2 @@
+# -OI-
+Algorithmic competition code
